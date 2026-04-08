@@ -1,0 +1,15 @@
+Package: simpledeploy
+Version: 1.2.0
+Architecture: amd64
+Maintainer: Vazra <hello@vazra.dev>
+Installed-Size: 65124
+Filename: pool/main/s/simpledeploy/simpledeploy_1.2.0_linux_amd64.deb
+Size: 22999894
+MD5sum: 32814230f77fefe901fd28ef15b546e5
+SHA1: fa53406aecb2cf1ca0de77667a923b60a64dd6c9
+SHA256: 591ff944ccfd5fb0710aa21deef3bc8264a6946d3e6d897b270b181fd0508bc2
+Priority: optional
+Homepage: https://github.com/vazra/simpledeploy
+Description: Lightweight deployment manager for Docker Compose apps
+Architecture-Variant: amd64v1
+
